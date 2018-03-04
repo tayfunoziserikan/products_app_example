@@ -1,1 +1,1 @@
-# products_app_example
+# Sample product example

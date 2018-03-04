@@ -1,1 +1,0 @@
-# Sample product example
